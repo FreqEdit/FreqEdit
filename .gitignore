@@ -1,0 +1,87 @@
+# ==========================
+# Python Standard
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================
+# Virtual Environments (非常重要)
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================
+# Deep Learning / Large Files
+# 防止误上传几个G的模型或数据集
+# ==========================
+# Data
+data/
+dataset/
+datasets/
+
+# Model Weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.pkl
+*.h5
+*.onnx
+weights/
+checkpoints/
+models/
+
+# ==========================
+# Logs & Outputs (训练日志和结果)
+# ==========================
+logs/
+runs/
+results/
+outputs/
+samples/
+wandb/
+.wandb
+lightning_logs/
+
+# ==========================
+# IDE & System Settings
+# ==========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ==========================
+# Configs & Secrets
+# ==========================
+.env
+config_private.yaml
