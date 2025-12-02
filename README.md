@@ -1,7 +1,7 @@
 # [FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing]
 
-[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://你的github用户名.github.io/你的仓库名/)
-[![arXiv](https://img.shields.io/badge/arXiv-2310.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2310.xxxxx)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://freqedit.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.01755-b31b1b.svg)](https://arxiv.org/abs/2512.01755)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -11,7 +11,7 @@
 
 
 ## 📢 News
-* **[2025.11]** Paper is released on arXiv.
+* **[2025.12]** Paper is released on arXiv.
 * **[Coming Soon]** Code will be released upon acceptance. **Please star ⭐ this repo to stay updated!**
 
 ## 💡 Framework
