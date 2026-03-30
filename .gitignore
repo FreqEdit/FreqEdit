@@ -46,6 +46,7 @@ models/
 logs/
 runs/
 results/
+output/
 outputs/
 samples/
 wandb/
